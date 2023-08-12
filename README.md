@@ -28,6 +28,19 @@ https://bloomboard.onrender.com
 
   The boards can be modified to use for various puropose like social media posts
 
+# Screenshots
+![image](https://github.com/Vanshika-Dargan/BloomBoard/assets/101962910/327fdfde-8aa8-4010-a01f-1371892988ae)
+
+![image](https://github.com/Vanshika-Dargan/BloomBoard/assets/101962910/92b60215-76b9-410e-99ec-bbbc8be97a3b)
+
+![image](https://github.com/Vanshika-Dargan/BloomBoard/assets/101962910/cb548cc1-5d5b-4eec-a4cc-065a0327c32e)
+
+![image](https://github.com/Vanshika-Dargan/BloomBoard/assets/101962910/94848cee-686e-4ab5-87a4-877b97df1502)
+
+
+
+
+
 
 
 
